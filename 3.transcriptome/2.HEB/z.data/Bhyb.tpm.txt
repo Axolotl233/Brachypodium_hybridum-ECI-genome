@@ -1,0 +1,3 @@
+gene_id	sample1	sample2
+S_gene_1	1	5
+D_gene_1	6	10

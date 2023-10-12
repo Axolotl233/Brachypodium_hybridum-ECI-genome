@@ -1,0 +1,15 @@
+eS10	S10
+eS9	S9
+eS8	S8
+eS7	S7
+eS6	S6
+eS5	S5
+eD5	D5
+eS4	S4
+eS3	S3
+eS2	S2
+eS1	S1
+eD4	D4
+eD3	D3
+eD2	D2
+eD1	D1

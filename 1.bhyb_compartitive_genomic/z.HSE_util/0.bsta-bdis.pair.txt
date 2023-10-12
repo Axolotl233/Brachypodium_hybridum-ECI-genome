@@ -1,0 +1,10 @@
+eS1	eD2
+eS2	eD1
+eS3	eD3
+eS4	eD3
+eS5	eD4
+eS6	eD1
+eS7	eD1
+eS8	eD2
+eS9	eD5
+eS10	eD4

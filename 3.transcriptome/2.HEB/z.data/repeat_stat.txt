@@ -1,0 +1,1 @@
+chr1	gene1	start	end	repeat_cov	chr1

@@ -1,0 +1,2 @@
+D_gene_1	dipD_gene_1	Ka_NG86	Ks_NG86  Ka_YN00	Ks_YN00
+S_gene_1	dipS_gene_1	Ka_NG86	Ks_NG86	Ka_YN00	Ks_YN00
