@@ -1,5 +1,5 @@
-# Brachypodium_hybridum-EC-genome
-Data and scripts used in Brachypodium hybridum EC genome research
+# Brachypodium_hybridum-ECI-genome
+Data and scripts used in Brachypodium hybridum ECI genome research
 
 0.genome_assembly contained methods of genome assembly and quality assessments
 
